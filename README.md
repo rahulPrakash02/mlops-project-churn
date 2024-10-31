@@ -1,3 +1,9 @@
+# Project Overview
+
+This is a project which implements the principles and tools of MLOps to automate the training, deployment and usage of a Logistic Regression model.
+Tools used: `dvc`, `mlflow`, `fastapi`, `uvicorn`, `docker`
+Setup and cleanup are automated via shell scripts.
+
 # Important Commands
   
 ### Setup
