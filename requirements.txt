@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+PyYAML
+datetime
+joblib
+dvc
+mlflow==2.14.3
+fastapi
+uvicorn

@@ -1,0 +1,9 @@
+data:
+  train_path: data/train.csv
+  test_path: data/test.csv
+model:
+  name: LogisticRegression
+  params:
+    max_iter: 1000
+  store_path: models/
+author: rahulPrakash02
